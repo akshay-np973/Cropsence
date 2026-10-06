@@ -1,0 +1,531 @@
+﻿Total pages: 1
+=== PAGE 1 FULL ===
+CropSense Home Predict History About Start Prediction
+AGRICU L TURE ,  INF O RMED
+Make Smarter Crop 
+Decisions.
+Get data - driven crop recommendations using soil and environmental 
+conditions.
+Start Prediction How It W orks
+S oi l-b ased reco mm endations D ata - driven p redictions AI- assisted e xpl anations
+A clearer next crop
+B u i l t  f rom  co n ditio ns y o u co n tro l
+O ne clear w orkflo w
+Everything Y ou Need for a Smarter Crop 
+Decision
+Purpose - built guidance from input to recommendation ΓÇö without taking control away from you.
+D a t a -D ri v e n Predictio n
+Analy z e N ,  P ,  K,  temperature ,  
+humidity ,  and soil pH with a pre -
+trained crop model.
+A I  Ex p l ana tio n
+Understand why a crop was 
+recommended in simple ,  practical 
+language ΓÇö without changing the 
+model result.
+Predictio n Hi s tor y
+Review previous recommendations 
+and the exact conditions used for 
+every saved prediction.
+S im p l e  &  F a rmer  
+F rie n d l y
+Comfortable inputs and clear guidance 
+for farmers ,  advisors ,  and non -
+technical users.
+Ho w  it w orks
+From field conditions to a practical 
+recommendation
+Four transparent steps. Y our measurements stay visible from start to finish.
+0 1
+E n ter  C o n ditio ns
+Add six soil and environmental values.
+0 2
+A na l y z e
+W e validate and prepare your inputs.
+03
+G et  R ecomme n d a tio n
+The M L  model predicts the crop.
+0 4
+U n der s t an d
+AI explains the result in plain language.
+Put your field data to work.
+Review every value ,  get a model - backed crop prediction ,  and understand the result.
+Start Prediction
+CropSense
+Smarter Crop Decisions ,  Powered by Data.
+┬⌐  2 0 2 6  CropSense.
+EX P LORE
+Home
+Predict
+History
+About
+T E C H NOLO G Y
+Machine L earning
+AI Assistance
+CropSense Home Predict History About Start Prediction
+Ne w  prediction
+Find the Right Crop for Y our Conditions
+Enter your soil and environmental conditions to receive a data - driven crop recommendation.
+All six values are re q uired. Y ou review them before prediction.
+S oi l  P a r a meter s
+Nitrogen (N)
+9 0 mg/kg
+Available nitrogen in the soil
+Phosphorus (P)
+42 mg/kg
+Available phosphorus in the soil
+Potassium ( K )
+4 3 mg/kg
+Available potassium in the soil
+E n v iro n me n t a l  P a r a meter s
+Temperature
+24.5 ┬░C
+Humidity
+82 %
+Relative humidity at field level
+Soil pH
+6 .5
+Measure of soil acidity or alkalinity
+6  RE Q UIRED V A L UES
+V alues are used only to prepare this prediction. Clear Form Recommend Crop
+N eed  He l p E n teri ng Y o u r  V a l u e s? O PTI O NA L
+Describe your field conditions naturally and let the AI assistant help organi z e 
+the information.
+ΓÇ£My  soil  has  high  nitrogen  and  moderate  phosphorus.  The  temperature  is  around  
+25┬░C  and  humidity  is  about  80%.ΓÇ¥
+O nly explicit numeric values can be extracted. Missing values are re q uested ,  never 
+guessed.
+Assist Me
+U s e  Cu rre n t  W e a t h er O PTI O NA L
+Automatically use current temperature and humidity from your location.
+C oim b a tore ,  Ta mi l  N a d u 24.5 ┬░ C 82%Updated 1 0: 42 AM ┬╖ L ive weather
+W eather fills only temperature and humidity and is never 
+mandatory.Use My L ocation
+For m  states
+Clear ,  accessible validation
+Examples shown together for handoff. Error text always accompanies status color and icon.
+Nitrogen (N) Phosphorus (P) Humidity Soil pH
+Enter value mg/kg forty mg/kg 124 % 15.2
+Please enter a value. Please enter a valid number. Humidity should be between 0 % and 1 00 %. Please enter a valid soil pH value between 0  
+and 14.
+Prediction remains unavailable until all re q uired values are valid. Recommend Crop
+R e v ie w  A I- O r gan i z ed  V a l u e s
+O nly numbers explicitly supplied in your description were organi z ed.
+Temperature Humidity
+25┬░ C 8 0 %
+Still needed
+N ,  P ,  K  and soil pH
+RE V IE W  RE Q UIRED
+Add to Form Edit Description
+CropSense
+Smarter Crop Decisions ,  Powered by Data.
+┬⌐  2 0 2 6  CropSense.
+EX P LORE
+Home
+Predict
+History
+About
+T E C H NOLO G Y
+Machine L earning
+AI Assistance
+CropSense Home Predict History About Start Prediction
+CR O P REC O MMENDATI O N
+Rice
+Recommended based on your provided conditions.
+REC O MMENDED 92% C O NFIDENCE ┬╖ W HEN A V AI L AB L E
+Save Result New Prediction V iew History
+Prediction saved to history
+Inputs used
+Conditions Used
+The exact values reviewed before the model prepared this recommendation.
+Nitrogen
+90 m g/kg
+Phosphorus
+42  m g/kg
+Potassium
+43  m g/kg
+Temperature
+24.5┬░ C
+Humidity
+82%
+Soil pH
+6.5
+AI E X P L ANATI O N
+Why Th i s C ro p?
+The machine - learning model recommended Rice from the six values you supplied. Rice commonly 
+performs well in warm ,  humid environments like 24.5 ┬░ C and 82% humidity. Y our pH of 6 .5 sits in a suitable 
+slightly acidic range ,  while the nitrogen ,  phosphorus ,  and potassium values provide a balanced nutrient 
+profile for establishment and growth.
+This explanation describes the M L  result ;  it does not create or change the crop prediction.
+Al ter na ti v e  Predictio ns
+Shown only when model probabilities are available.
+Mai z e 5%
+J ute 2%
+Cotton 1 %
+Resul t variants
+Transparent when optional data is unavailable
+The crop recommendation remains clear without invented confidence or a generated explanation.
+N O  M O DE L  PR O BABI L ITIES
+R ice
+Recommendation available. Confidence and alternative predictions are not shown 
+because model probabilities were not returned.
+E X P L ANATI O N UNA V AI L AB L E
+R ice  p redictio n i s s ti ll  a v a i l a bl e
+The crop prediction is available ,  but the AI explanation could not be generated.
+Try Explanation Again
+CropSense
+Smarter Crop Decisions ,  Powered by Data.
+┬⌐  2 0 2 6  CropSense.
+EX P LORE
+Home
+Predict
+History
+About
+T E C H NOLO G Y
+Machine L earning
+AI Assistance
+CropSense Home Predict Hi s tor y About Start Prediction
+Saved reco mm endations
+Prediction History
+Review crops and the conditions used for each saved recommendation.
+Search by crop
+4 saved predictions
+All crops
+Start Prediction
+Newest
+Rice 92% C O NFIDENCE
+2 7  Sep 2 0 2 6  ┬╖ 1 0: 42 AM
+N 9 0  ┬╖ P 42 ┬╖ K  4 3  ┬╖ 24.5 ┬░ C ┬╖ 82% humidity ┬╖ pH 6 .5
+V iew DetailsSaved prediction
+Mai z e 8 7 % C O NFIDENCE
+18 Sep 2 0 2 6  ┬╖ 4 : 18 PM
+N 7 8 ┬╖ P 3 8 ┬╖ K  41 ┬╖ 2 6┬░ C ┬╖ 6 8% humidity ┬╖ pH 6 .8
+V iew DetailsSaved prediction
+Chickpea
+0 2 Sep 2 0 2 6  ┬╖ 8 :0 5 AM
+N 42 ┬╖ P 5 6  ┬╖ K  36  ┬╖ 21 ┬░ C ┬╖ 48% humidity ┬╖ pH 7 .1
+V iew DetailsSaved prediction
+Cotton 81% C O NFIDENCE
+21 Aug 2 0 2 6  ┬╖ 2 :3 1 PM
+N 6 5 ┬╖ P 44 ┬╖ K  48 ┬╖ 29 ┬░ C ┬╖ 6 2% humidity ┬╖ pH 7 .4
+V iew DetailsSaved prediction
+CropSense
+Smarter Crop Decisions ,  Powered by Data.
+┬⌐  2 0 2 6  CropSense.
+EX P LORE
+Home
+Predict
+History
+About
+T E C H NOLO G Y
+Machine L earning
+AI Assistance
+CropSense Home Predict Hi s tor y About Start Prediction
+Saved reco mm endations
+Prediction History
+Review crops and conditions from saved predictions.
+No saved predictions yet
+Y our saved crop recommendations will appear here with the exact values 
+used.
+Start Prediction
+CropSense
+Smarter Crop Decisions ,  Powered by Data.
+┬⌐  2 0 2 6  CropSense.
+EX P LORE T E C H NOLO G Y
+Home Machine L earning
+Predict AI Assistance
+History
+About
+CropSense Home Predict Hi s tor y About Start Prediction
+History /Prediction details
+SA V ED PREDICTI O N
+Reco mm ended crop
+Rice
+2 7  Sep 2 0 2 6  ┬╖ 1 0: 42 AM
+92% C O NFIDENCE
+C o n ditio ns us ed
+Nitrogen
+90 m g/kg
+Phosphorus
+42  m g/kg
+Potassium
+43  m g/kg
+Temperature
+24.5┬░ C
+Humidity
+82%
+Soil pH
+6.5
+Why Th i s C ro p? AI E X P L ANATI O N
+The machine - learning model recommended Rice from your supplied conditions. The warm 
+temperature ,  high humidity ,  slightly acidic pH ,  and balanced nutrient readings align with 
+conditions commonly suitable for rice cultivation.
+This is an explanation of the M L  prediction ,  not a separate prediction.
+Al ter na ti v e  p redictio ns PR O BABI L ITIES A V AI L AB L E
+Mai z e 5%  ┬╖  J ute 2%  ┬╖  Cotton 1%
+Displayed because this model run returned probabilities.
+Back to History New Prediction
+CropSense
+Smarter Crop Decisions ,  Powered by Data.
+┬⌐  2 0 2 6  CropSense.
+EX P LORE T E C H NOLO G Y
+Home Machine L earning
+Predict AI Assistance
+History
+About
+CropSense Home Predict History Ab o u t Start Prediction
+AB O UT CR O PSENSE
+Smarter Crop Decisions 
+Start W ith Better Data.
+CropSense combines agricultural data ,  a pre - trained machine - learning model ,  
+and AI - assisted explanations to make recommendations easier to understand ΓÇö
+not harder to trust.
+Clear b y  design
+A simple ,  non - technical flow
+The prediction and explanation have distinct responsibilities at every step.
+User Input V alidation M L  Model Crop 
+Recommendation AI Explanation Saved Prediction
+O ur principles
+Intelligence with clear boundaries
+Useful assistance without hiding what is known ,  optional ,  or unavailable.
+Y o u s t ay i n co n tro l
+Review and edit all six values before prediction.
+N o  f a b ric a ted  me asu reme n t s
+Missing values are re q uested ,  never invented by AI.
+W e a t h er  s t ays o p tio na l
+L ocation weather can fill temperature and humidity 
+only when enabled.
+CropSense
+Smarter Crop Decisions ,  Powered by Data.
+┬⌐  2 0 2 6  CropSense.
+EX P LORE
+Home
+Predict
+History
+About
+T E C H NOLO G Y
+Machine L earning
+AI Assistance
+CropSense
+AGRICU L TURE ,  INF O RMED
+Make Smarter Crop 
+Decisions.
+Get data - driven crop recommendations using 
+soil and environmental conditions.
+Start Prediction
+How It W orks
+Ho w  it w orks
+A clear path to your 
+recommendation
+Four transparent steps ,  designed for small 
+screens.
+E n ter  C o n ditio ns0 1
+Add six soil and environmental values.
+0 2 A na l y z e
+W e validate and prepare your inputs.
+03 G et  R ecomme n d a tio n
+The M L  model predicts the crop.
+0 4 U n der s t an d
+AI explains the result in plain language.
+Put your field data to work.
+Review every value and get a model - backed 
+prediction.
+Start Prediction
+CropSense
+Smarter Crop Decisions ,  Powered by Data.
+┬⌐  2 0 2 6  CropSense.
+EX P LORE T E C H NOLO G Y
+Home Machine L earning
+Predict AI Assistance
+History
+About
+CropSense CropSense
+Home
+Predict
+History
+About
+Start Prediction
+Smarter Crop Decisions ,  Powered by Data.
+CropSense
+Ne w  prediction
+Find the Right Crop for 
+Y our Conditions
+Enter six values for a data - driven crop 
+recommendation.
+S oi l  P a r a meter s
+Nitrogen (N)
+Enter value mg/kg
+Available nitrogen in the soil
+Phosphorus (P)
+Enter value mg/kg
+Available phosphorus in the soil
+Potassium ( K )
+Enter value mg/kg
+Available potassium in the soil
+E n v iro n me n t a l  P a r a meter s
+Temperature
+Enter value ┬░C
+Humidity
+Enter value %
+Humidity should be between 0 % and 1 00 %.
+Soil pH
+Enter value
+Measure of soil acidity or alkalinity
+N eed  He l p E n teri ng V a l u e s? O PTI O NA L
+AI can organi z e explicit numeric values ,  but it never 
+guesses missing measurements.
+Assist Me
+Recommend Crop
+Clear Form
+CropSense
+Review
+Final c h eck
+Ready to Analy z e
+Review your six values before the model 
+prepares a recommendation.
+Nitrogen
+Phosphorus
+Potassium
+Temperature
+Humidity
+Soil pH
+90 m g/kg
+42  m g/kg
+43  m g/kg
+24.5┬░ C
+82%
+6.5
+Y ou control the final values. Nothing is added or 
+changed after this step.
+Recommend Crop
+Edit V alues
+CropSense
+Analy z ing Y our Field 
+Conditions
+This usually takes a moment. No values are 
+changed during analysis.
+Ch ec k i ng i np ut  val ues
+Pre pa ri ng p redictio n
+A na l y z i ng ag ric u l t u r a l  co n ditio ns
+Pre pa ri ng recomme n d a tio n
+Preparing a clear recommendation
+CropSense
+CR O P REC O MMENDATI O N
+Rice
+Recommended based on your provided 
+conditions.
+92% C O NFIDENCE ┬╖ W HEN A V AI L AB L E
+C o n ditio ns U s ed
+Nitrogen
+90 m g/kg
+Phosphorus
+42  m g/kg
+Potassium
+43  m g/kg
+Temperature
+24.5┬░ C
+Humidity
+82%
+Soil pH
+6.5
+AI E X P L ANATI O N
+Why Th i s C ro p?
+The M L  model recommended Rice from your 
+supplied values. The warm temperature ,  high 
+humidity ,  suitable pH ,  and balanced nutrients 
+align with conditions commonly suited to rice.
+AI explains the M L  result ;  it does not make the 
+prediction.
+Save Result
+New Prediction
+V iew History
+CropSense
+Saved reco mm endations
+Prediction History
+Y our saved crop recommendations.
+Search crops
+Rice 92% C O NFIDENCE
+2 7  Sep 2 0 2 6  ┬╖ 1 0: 42 AM
+N 9 0  ┬╖ P 42 ┬╖ K  4 3  ┬╖ 24.5 ┬░ C ┬╖ 82% humidity ┬╖ pH 
+6 .5
+V iew DetailsSaved prediction
+Mai z e 8 7 % C O NFIDENCE
+18 Sep 2 0 2 6  ┬╖ 4 : 18 PM
+N 7 8 ┬╖ P 3 8 ┬╖ K  41 ┬╖ 2 6┬░ C ┬╖ 6 8% humidity ┬╖ pH 6 .8
+V iew DetailsSaved prediction
+Chickpea
+0 2 Sep 2 0 2 6  ┬╖ 8 :0 5 AM
+N 42 ┬╖ P 5 6  ┬╖ K  36  ┬╖ 21 ┬░ C ┬╖ 48% humidity ┬╖ pH 7 .1
+V iew DetailsSaved prediction
+CropSense UI kit
+Responsive Component Showcase
+Reusable interface specimens and key product states for a trustworthy agricultural recommendation experience.
+Navbar ┬╖ Desktop
+CropSense Home Predict History About Start Prediction
+Mobile Navigation
+CropSense
+Home
+Predict
+History
+About
+Buttons ┬╖ Defaul t / Hover / Disabled
+Primary Secondary Ghost
+Primary hover Disabled
+Hover: subtle surface darken ┬╖ Press: 98% scale ┬╖ Focus: 2px ring
+Inputs ┬╖ Defaul t / Focus / Error
+Nitrogen (N) Temperature
+Enter value mg/kg 24.5 ┬░C
+Available nitrogen in the soil
+Soil pH
+15.2
+Please enter a valid soil pH 
+value between 0  and 14.
+Badges
+REC O MMENDED O PTI O NA L RE V IE W  RE Q UIRED ERR O R
+Cards ┬╖ Para m eter / Prediction / AI E x planation / W eat h er
+Rice
+2 7  Sep 2 0 2 6  ┬╖ 1 0: 42 AM
+N 9 0  ┬╖ P 42 ┬╖ K  4 3  ┬╖ 24.5 ┬░ C ┬╖ 82% ┬╖ pH 6 .5
+V iew Details
+Nitrogen
+90 m g/kg
+92% Why Th i s C ro p? AI E X P L ANATI O N
+AI explains the machine - learning result in 
+simple language without changing the 
+prediction.
+No measurements are invented.
+Cu rre n t  W e a t h er
+Coimbatore ,  Tamil Nadu
+24.5 ┬░ C 82%
+Updated 1 0: 42 AM ┬╖ O ptional
+Toast Modal ┬╖ AI - assisted input
+Reveal: fade +  8px rise ┬╖ Auto - dismiss after a readable pause
+Prediction saved to history A ss i s t  M e
+Describe numeric field conditions. Missing values will be 
+re q uested ,  not guessed.
+Temperature is 25 ┬░ C and humidity is 8 0 %.
+Cancel O rgani z e V alues
+L oading / E m pt y  State / Error State
+A na l y z i ng Y o u r  F ie l d  C o n ditio ns
+ΓùÅ  Analy z ing agricultural conditions
+Soft rotating indicator ┬╖ no fake percentage
+N o  sa v ed  p redictio ns y et
+Start a prediction to build your history.
+Start Prediction
+Ex p l ana tio n una v a i l a bl e
+The crop prediction is available ,  but the AI 
+explanation could not be generated.
+Try Again
+Footer
+CropSense
+Smarter Crop Decisions ,  Powered by Data.
+┬⌐  2 0 2 6  CropSense.
+EX P LORE
+Home
+Predict
+History
+About
+T E C H NOLO G Y
+Machine L earning
+AI Assistance
+=== END PAGE ===
