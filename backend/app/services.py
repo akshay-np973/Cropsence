@@ -35,7 +35,7 @@ The model's confidence was {confidence:.1f}%.
 Write a brief 2-3 sentence explanation (in plain language suitable for farmers) explaining why these conditions are suitable for {crop} cultivation. Focus on which specific conditions are most relevant. Do NOT invent measurements or make claims the ML model didn't make. Do NOT say this is the "perfect" or "ideal" crop — just explain what conditions align with it."""
 
         chat = await client.chat.completions.create(
-            model="llama-3.3-70b-versatile",
+            model="qwen/qwen3.8-27b",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.3,
             max_tokens=200,
@@ -76,7 +76,7 @@ Rules:
 JSON only, no other text:"""
 
         chat = await client.chat.completions.create(
-            model="llama-3.3-70b-versatile",
+            model="qwen/qwen3.8-27b",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.0,
             max_tokens=200,
