@@ -15,7 +15,8 @@ from app.database import init_db
 from app.routers import predict, history, weather
 
 # ── Load ML model at startup ─────────────────────────────────────────────────
-BASE_DIR = Path(__file__).resolve().parent.parent.parent  # project root
+# backend/app/main.py → parent = app/, parent.parent = backend/ (where pkl files live)
+BASE_DIR = Path(__file__).resolve().parent.parent
 
 def load_model():
     model_path = BASE_DIR / "bagging_model.pkl"
